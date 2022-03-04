@@ -84,6 +84,6 @@ An example of this is /Bcat/B, which will find the word "cat", even when fully e
 ### Look-ahead and Look-behind
 
 ## Author:
-
+******************************
 Jennifer Emanuele, Full Stack Engineering bootcamp student (OSU); RN, BSN.
 https://github.com/jenemanuele/
