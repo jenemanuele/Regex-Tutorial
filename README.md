@@ -74,6 +74,11 @@ The code snippet "#?" from the preceding hex value example, means that the expre
 
 ### Boundaries
 
+Boundaries, such as /b  or /B, are similar to anchors (^, $), are assertions about the current position in the string.  While anchors are there to demarcate or assert the beginning or end in the string, boundaries make a pronoucement about what can be matched to the left and to the right of the current position in the given string. The boundary demarcation /b is a word boundary that matches the position of a character, usually a letter, digit or underscore.  It also can mark the spot between the word character and non-word character.  The other demarcation /B, is a non-word boundary, which matches a position and not a character.
+
+An example of this is /Bcat/B, which will find the word "cat", even when fully enveloped  by other word characters.  For instance the word "humidification" would be selected here, as it does contain the word "cat" inside of other letters.
+
+
 ### Back-references
 
 ### Look-ahead and Look-behind
