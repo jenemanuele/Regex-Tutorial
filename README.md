@@ -33,5 +33,4 @@
   #  💜 Screenshot 💜 
   ![image](https://user-images.githubusercontent.com/91485484/156887530-b0460e73-8be5-43aa-bed0-f11e09d40b3d.png)
   # Link
-  (https://gist.github.com/jenemanuele)
-
+  https://gist.github.com/jenemanuele
